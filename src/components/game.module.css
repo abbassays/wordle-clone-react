@@ -1,0 +1,27 @@
+
+
+.keyboard {
+  width: 700px;
+  height: 300px;
+}
+
+
+.key {
+  /* width: 50px;
+  height: 70px; */
+  /* background-color: #4490ca; */
+  /* box-shadow: 0px 0px 0px #999,
+  1px 1px 0px #999,
+  2px 2px 0px #999,
+  3px 3px 0px #999,
+  4px 4px 0px #999,
+  5px 5px 0px #999; */
+}
+
+.big {
+  width: 100px;
+}
+
+.disabled{
+  background-color: #204c75;
+}
